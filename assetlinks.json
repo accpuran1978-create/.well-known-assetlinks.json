@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.purangroup.staff",
+        "sha256_cert_fingerprints": ["07:B5:92:E9:5D:F4:43:87:36:65:EA:28:EA:45:D5:75:43:09:B4:DC:22:67:16:5B:D3:C5:1E:8C:AF:B8:8E:70"]
+      }
+    }]
